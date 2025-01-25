@@ -1,0 +1,18 @@
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+      int  n=nums.size();
+      k=k%n;
+      int i,j;
+      vector<int> ew(n);
+      for(i=0;i<n;i++){
+        j=(i+k)%n;
+        ew[j]=nums[i];
+
+      }
+      nums=ew;
+
+    
+        
+    }
+};
