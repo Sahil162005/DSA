@@ -1,0 +1,24 @@
+class Solution {
+public:
+    vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
+        int cnt=0;
+        int row=0,i,j;
+        int largest=0;
+       int n=mat.size();
+        for(i=0;i<n;i++){
+            cnt=0;
+            for(j=0;j<mat[i].size();j++){
+                if(mat[i][j]==1){
+                    cnt++;
+                }
+                if(cnt>largest){
+                    largest=cnt;
+                    row=i;
+                }
+            }
+        }
+       return {row,largest};
+        
+        
+    }
+};
