@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int reverse(int x) {
+    int i,rem=0;
+    while(x!=0){
+        i=x%10;
+         if (rem > INT_MAX / 10 || (rem == INT_MAX / 10 && i > 7)) return 0;
+        if (rem < INT_MIN / 10 || (rem == INT_MIN / 10 && i < -8)) return 0;
+        rem=rem*10+i;
+    
+        x=x/10;
+        i=0;
+    }
+    return rem;
+        
+    }
+};
