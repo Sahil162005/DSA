@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int pivotIndex(vector<int>& nums) {
+        int n=nums.size();
+        int i,j;
+        int sum=0;
+        int suml=0;
+        for(i=0;i<n;i++){
+            sum=sum+nums[i];
+
+        }
+        for(i=0;i<n;i++){
+            if(suml==sum-suml-nums[i]){
+                return i;
+            }
+            suml=suml+nums[i];
+
+        }
+        return -1;
+
+        
+    }
+};
