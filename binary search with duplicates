@@ -1,0 +1,36 @@
+#include<iostream>
+using namespace std;
+int binaryserach(int arr[],int i,int n,int target){
+    i=0;
+    int j=n-1;
+   int  k=(i+j)/2;
+    while(i<=j){
+        if(arr[k]==target){
+            if(arr[k]!=arr[k-1]){
+            return k;}
+              else{
+                k--;
+            }
+            }
+            
+        
+        else if(arr[k]>target){
+            j=k-1;
+            k=(i+j)/2;
+        }
+        else if(arr[k]<target){
+            i=k+1;
+            k=(i+j)/2;
+        }
+    }
+
+    
+    return -1;
+}
+
+int main(){
+    int arr[10]={1,2,2,2,3,4,4,4,5,7};
+    int res =binaryserach(arr,0,10,4);
+    cout<<res;
+    return 0;
+}
