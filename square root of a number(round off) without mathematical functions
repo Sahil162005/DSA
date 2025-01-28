@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int mySqrt(int x) {
+       int i=0;
+        int j=x;
+        long long int k=i+(j-i)/2;
+        int ans=0;
+        while(i<=j){
+            k=i+(j-i)/2;
+            if(k*k<=x){
+                ans=k;
+                i=k+1;
+            }
+            else if(k*k==x){
+                return k;
+            }
+            else{
+                j=k-1;
+            }
+
+        }
+        return ans;
+        
+    }
+};
