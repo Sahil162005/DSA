@@ -1,0 +1,46 @@
+ bool ispossible(vector<int>&arr,long long mid,int k,int n){
+        long long timesum=0;
+        int cnt=1;
+        for(int i=0;i<n;i++){
+             if (arr[i] > mid) return false;
+            
+            if(arr[i]+timesum>mid){
+                cnt++;
+                timesum=arr[i];
+                if(cnt>k){
+                    return false;
+                }
+                
+            }
+            else{
+                timesum +=arr[i];
+            }
+        }
+        return true;
+    }
+    long long minTime(vector<int>& arr, int k) {
+      int n=arr.size();
+      if(k>=n){
+          return *max_element(arr.begin(), arr.end());
+
+      }
+     
+      long long start = *max_element(arr.begin(), arr.end());  // Minimum possible mid (largest element)
+      long long end = accumulate(arr.begin(), arr.end(), 0LL);
+      long long res=end;
+      while(start<=end){
+          long long mid = start + (end - start) / 2;
+          if(ispossible(arr,mid,k,n)){
+              res=mid;
+            
+              end=mid-1;
+          }
+          else{
+              start=mid+1;
+              
+          }
+      }
+     
+      return res;
+      
+    }
