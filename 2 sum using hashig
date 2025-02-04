@@ -1,0 +1,17 @@
+vector<int> twoSum(vector<int>& nums, int target) {
+        int i,j,l;
+        int n=nums.size();
+        map<int,int> ans;
+        
+        for(int i=0;i<n;i++){
+            int moreneed=target-nums[i];
+            
+            if(ans.find(moreneed)!=ans.end()){
+                return{ans[moreneed],i};
+            }
+            ans[nums[i]]=i;
+        }
+       
+        
+    return {-1,-1};   
+    }
