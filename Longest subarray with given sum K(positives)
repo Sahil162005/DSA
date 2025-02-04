@@ -1,0 +1,23 @@
+int longestSubarray(vector<int>& arr, int k) {
+        int n=arr.size();
+        int sum=0;
+        int i=0;
+        int j=0;
+        int cnt=0;
+      
+       while(j<n){
+           if(j<n){
+           sum+=arr[j];
+           }
+           while(i<=j && sum>k){
+               sum-=arr[i];
+               i++;
+           }
+           if(sum==k){
+                cnt=max(cnt,j-i+1);
+           }
+           j++;
+          
+       }
+        return cnt;
+    }
