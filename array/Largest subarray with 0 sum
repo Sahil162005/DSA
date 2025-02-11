@@ -1,0 +1,27 @@
+int maxLen(vector<int>& arr) {
+        // code hint sum=0;
+       int k=0;
+             int n=arr.size();
+    long long sum=0;
+    int maxi=0;
+    unordered_map<long long,int> mpp;
+    for(int i=0;i<n;i++){
+        sum+=arr[i];
+        if(sum==k){
+            maxi=max(maxi,i+1);
+        
+        }
+
+        if(mpp.find(sum-k)!=mpp.end()){
+            int len= i-mpp[sum-k];
+             maxi=max(maxi,len);
+        }
+        if(mpp.find(sum)==mpp.end()){
+        mpp[sum]=i;
+        }
+        
+
+        }
+    
+    return maxi;
+    }
