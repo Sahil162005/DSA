@@ -11,13 +11,25 @@ public:
         //return dp[n];
         //
         // optimized S.C. Tabulation 
-        int prev1=1;
-        int prev2=1;
-        for(int i=2;i<=n;i++){
-            int curr=prev1+prev2;
-            prev2=prev1;
-            prev1=curr;
+        //int prev1=1;
+        //int prev2=1;
+        //for(int i=2;i<=n;i++){
+          //  int curr=prev1+prev2;
+           // prev2=prev1;
+           // prev1=curr;
+       // }
+        //return prev1;
+        //Memoization 
+        int sol=solve(dp,n);
+        return sol;
+    }
+    int solve(vector<int>&dp,int n){
+        if(n<=1){
+            return 1;
         }
-        return prev1;
+        if(dp[n]!=-1){
+            return dp[n];
+        }
+        return dp[n]=solve(dp,n-1)+solve(dp,n-2);
     }
 };
