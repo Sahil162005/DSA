@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sahil162005/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sahil162005/DSA/tree/master/0120-triangle) |
@@ -47,5 +48,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
