@@ -20,7 +20,22 @@ public:
         }
         if(sum%2 !=0) return false;
         int sum1=sum/2;
-        vector<vector<int>>dp(n,vector<int>(sum1+1,-1));
-        return fn(n-1,sum1,nums,dp);
+        vector<vector<bool>>dp(n,vector<bool>(sum1+1,0));
+        for(int i=0;i<n;i++){
+            dp[i][0]=true;
+        }
+        if(nums[0]<=sum1){
+        dp[0][nums[0]]=true;}
+        for(int index=1;index<n;index++){
+            for(int j=1;j<=sum1;j++){
+                bool nt=dp[index-1][j];
+                bool t=false;
+               if(nums[index]<=j){
+               t=dp[index-1][j-nums[index]];
+                }
+               dp[index][j]= t||nt;
+            }
+        }
+        return dp[n-1][sum1];
     }
 };
