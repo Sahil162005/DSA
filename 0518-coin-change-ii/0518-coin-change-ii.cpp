@@ -16,10 +16,6 @@ public:
     }
     int change(int amount, vector<int>& coins) {
         int n=coins.size();
-        int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=coins[i];
-        }
         vector<vector<int>>dp(n,vector<int>(amount+1,-1));
         return fn(n-1,amount,coins,dp);
     }
