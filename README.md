@@ -82,6 +82,7 @@
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -92,6 +93,7 @@
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -99,11 +101,13 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 ## Hash Table
 |  |
 | ------- |
