@@ -48,6 +48,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 ## Combinatorics
 |  |
@@ -64,6 +65,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Sahil162005/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
