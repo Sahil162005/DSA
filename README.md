@@ -50,6 +50,7 @@
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Combinatorics
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil162005/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -112,6 +116,7 @@
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -142,4 +147,12 @@
 | [0207-course-schedule](https://github.com/Sahil162005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sahil162005/DSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil162005/DSA/tree/master/0820-find-eventual-safe-states) |
+## Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
