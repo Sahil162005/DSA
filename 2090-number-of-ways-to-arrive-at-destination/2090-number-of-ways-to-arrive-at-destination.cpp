@@ -21,15 +21,16 @@ public:
             pq.pop();
             if (w > dis[u]) continue;
             for(auto it :adj[u]){
-                int node=it.first;
-                long long weight=it.second;
-                if (dis[node] > w + weight) {
-               dis[node] = w + weight;
-                ways[node] = ways[u];
-                pq.push({weight+w,node});
-            } else if (dis[node] == w + weight) {
-              ways[node] = (ways[node] + ways[u]) % 1000000007;
-            }
+               int node=it.first;
+               long long weight = it.second;
+               if(weight+w<dis[node]){
+                dis[node]=weight+w;
+                ways[node]=ways[u];
+                pq.push({dis[node],node});
+               }
+               else if(dis[node]==weight+w){
+                ways[node]=(ways[node]+ways[u])%1000000007;
+               }
             }
         }
         return ways[n-1];
