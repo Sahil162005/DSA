@@ -1,5 +1,6 @@
 class Solution {
 public:
+    int a=1e9 +7;
     int countPaths(int n, vector<vector<int>>& roads) {
         vector<long long>dis(n,LLONG_MAX );
         vector<vector<pair<int,int>>>adj(n);
@@ -29,7 +30,7 @@ public:
                 pq.push({dis[node],node});
                }
                else if(dis[node]==weight+w){
-                ways[node]=(ways[node]+ways[u])%1000000007;
+                ways[node]=(ways[node]+ways[u])%a;
                }
             }
         }
