@@ -56,6 +56,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Combinatorics
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +180,8 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahil162005/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil162005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
