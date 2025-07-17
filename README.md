@@ -39,6 +39,7 @@
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sahil162005/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sahil162005/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Sahil162005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sahil162005/DSA/tree/master/0198-house-robber) |
@@ -125,6 +126,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
