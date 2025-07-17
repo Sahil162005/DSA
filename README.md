@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/Sahil162005/DSA/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sahil162005/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/Sahil162005/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sahil162005/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
@@ -147,6 +149,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## String
