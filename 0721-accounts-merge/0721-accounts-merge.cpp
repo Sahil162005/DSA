@@ -36,33 +36,34 @@ public:
             for(int j=1;j<accounts[i].size();j++){
                 string mail=accounts[i][j];
                 if(mpp.find(mail)==mpp.end()){
-                    mpp[mail]=i;
+                 mpp[mail]=i;
                 }
                 else{
-                    ds.unionbysize(i,mpp[mail]);
+                    ds.unionbysize(mpp[mail],i);
                 }
             }
         }
-        vector<vector<string>> merged(n);
-        for (auto it : mpp) {
-            string mail = it.first;
-            int node = ds.findpar(it.second);
-            merged[node].push_back(mail);
+        vector<vector<string>>emails(n);
+        for(auto it:mpp){
+            string mail=it.first;
+            int index=ds.findpar(it.second);
+            emails[index].push_back(mail);
         }
         vector<vector<string>>ans;
         for(int i=0;i<n;i++){
-            if(merged[i].size()==0) continue;
+            if(emails[i].size()==0)continue;
             else{
-                sort(merged[i].begin(),merged[i].end());
                 vector<string>temp;
                 temp.push_back(accounts[i][0]);
-                for(int j=0;j<merged[i].size();j++){
-                    temp.push_back(merged[i][j]);
+                sort(emails[i].begin(),emails[i].end());
+                for(int j=0;j<emails[i].size();j++){
+                    temp.push_back(emails[i][j]);
                 }
                 ans.push_back(temp);
             }
         }
         return ans;
+         
 
     }
 };
