@@ -27,48 +27,48 @@ public:
     //        vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(k+1,-1)));
     //        return fn(prices,0,dp,1,k);
     // }
-        int maxProfit(int k,vector<int>& prices) {
+    //     int maxProfit(int k,vector<int>& prices) {
+    //     int n = prices.size();
+    //     vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int>(k+1, 0)));
+    //     for (int idx = n - 1; idx >= 0; idx--) {
+    //         for (int buy = 0; buy <= 1; buy++) {
+    //             for (int cap = 1; cap <= k; cap++) {
+    //                 int take = 0, not_take = 0;
+    //                 if (buy) {
+    //                     take = -prices[idx] + dp[idx + 1][0][cap];
+    //                     not_take = dp[idx + 1][1][cap];
+    //                 } else {
+    //                     take = prices[idx] + dp[idx + 1][1][cap - 1];
+    //                     not_take = dp[idx + 1][0][cap];
+    //                 }
+
+    //                 dp[idx][buy][cap] = max(take, not_take);
+    //             }
+    //         }
+    //     }
+    //     return dp[0][1][k];
+    // }
+    int maxProfit(int k,vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int>(k+1, 0)));
+        vector<vector<int>>prev(2,vector<int>(k+1,0));
+        vector<vector<int>>curr(2,vector<int>(k+1,0));
         for (int idx = n - 1; idx >= 0; idx--) {
             for (int buy = 0; buy <= 1; buy++) {
                 for (int cap = 1; cap <= k; cap++) {
                     int take = 0, not_take = 0;
                     if (buy) {
-                        take = -prices[idx] + dp[idx + 1][0][cap];
-                        not_take = dp[idx + 1][1][cap];
+                        take = -prices[idx] + prev[0][cap];
+                        not_take = prev[1][cap];
                     } else {
-                        take = prices[idx] + dp[idx + 1][1][cap - 1];
-                        not_take = dp[idx + 1][0][cap];
+                        take = prices[idx] + prev[1][cap - 1];
+                        not_take = prev[0][cap];
                     }
 
-                    dp[idx][buy][cap] = max(take, not_take);
+                    curr[buy][cap] = max(take, not_take);
                 }
             }
+            prev=curr;
         }
-        return dp[0][1][k];
+        return curr[1][k];
     }
-    // int maxProfit(int k,vector<int>& prices) {
-    //     int n = prices.size();
-    //     vector<vector<int>>prev(2,vector<int>(3,0));
-    //     vector<vector<int>>curr(2,vector<int>(3,0));
-    //     for (int idx = n - 1; idx >= 0; idx--) {
-    //         for (int buy = 0; buy <= 1; buy++) {
-    //             for (int cap = 1; cap <= 2; cap++) {
-    //                 int take = 0, not_take = 0;
-    //                 if (buy) {
-    //                     take = -prices[idx] + prev[0][cap];
-    //                     not_take = prev[1][cap];
-    //                 } else {
-    //                     take = prices[idx] + prev[1][cap - 1];
-    //                     not_take = prev[0][cap];
-    //                 }
-
-    //                 curr[buy][cap] = max(take, not_take);
-    //             }
-    //         }
-    //         prev=curr;
-    //     }
-    //     return curr[1][2];
-    // }
 };
