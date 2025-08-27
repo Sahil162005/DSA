@@ -39,6 +39,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Sahil162005/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Sahil162005/DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahil162005/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -91,6 +92,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -127,6 +129,7 @@
 | [0031-next-permutation](https://github.com/Sahil162005/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -214,6 +217,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sahil162005/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -224,6 +228,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Sahil162005/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sahil162005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
+| [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Sahil162005/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Sahil162005/DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahil162005/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -237,6 +242,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
+| [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 ## Backtracking
 |  |
 | ------- |
