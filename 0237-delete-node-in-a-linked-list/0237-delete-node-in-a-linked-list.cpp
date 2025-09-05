@@ -8,17 +8,25 @@
  */
 class Solution {
 public:
-    void deleteNode(ListNode* node) {
+    // void deleteNode(ListNode* node) {
+    //     ListNode*p1=NULL;
+    //     p1=node;
+    //     ListNode*p2=NULL;
+    //     while(p1->next!=NULL){
+    //         p1->val=p1->next->val;
+    //         p2=p1;
+    //         p1=p1->next;
+    //     }
+    //     p2->next=NULL;
+    //     delete(p1);
+        
+    // }
+     void deleteNode(ListNode* node) {
         ListNode*p1=NULL;
         p1=node;
-        ListNode*p2=NULL;
-        while(p1->next!=NULL){
-            p1->val=p1->next->val;
-            p2=p1;
-            p1=p1->next;
-        }
-        p2->next=NULL;
-        delete(p1);
+       ListNode* p2=p1->next;
+        p1->val=p2->val;
+        p1->next=p2->next;
         
     }
 };
