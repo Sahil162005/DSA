@@ -315,4 +315,8 @@
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/Sahil162005/DSA/tree/master/1080-camelcase-matching) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sahil162005/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
