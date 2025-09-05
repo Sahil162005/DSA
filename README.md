@@ -134,6 +134,7 @@
 | [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sahil162005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil162005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Sahil162005/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
@@ -319,6 +320,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil162005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Sahil162005/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sahil162005/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
