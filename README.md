@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil162005/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sahil162005/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sahil162005/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sahil162005/DSA/tree/master/0070-climbing-stairs) |
@@ -309,6 +310,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil162005/DSA/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Sahil162005/DSA/tree/master/0206-reverse-linked-list) |
 ## Trie
@@ -322,6 +324,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil162005/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil162005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sahil162005/DSA/tree/master/0206-reverse-linked-list) |
