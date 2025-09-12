@@ -235,6 +235,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sahil162005/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sahil162005/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sahil162005/DSA/tree/master/0115-distinct-subsequences) |
@@ -337,6 +338,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sahil162005/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
