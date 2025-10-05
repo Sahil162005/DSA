@@ -13,6 +13,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sahil162005/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
@@ -60,6 +61,7 @@
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sahil162005/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sahil162005/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sahil162005/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sahil162005/DSA/tree/master/0056-merge-intervals) |
@@ -139,6 +141,7 @@
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil162005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Sahil162005/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
@@ -340,6 +343,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahil162005/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Sahil162005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -358,5 +362,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
