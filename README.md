@@ -87,6 +87,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Sahil162005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Sahil162005/DSA/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Sahil162005/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
@@ -342,6 +343,7 @@
 | [0155-min-stack](https://github.com/Sahil162005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -353,4 +355,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
