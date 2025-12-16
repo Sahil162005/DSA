@@ -11,7 +11,7 @@ public:
                 else{
                     lmax=arr[l];
                 }
-                l++;
+                l=l+1;
             }
             else{
                 if(rmax>arr[r]){
@@ -20,9 +20,9 @@ public:
                 else{
                     rmax=arr[r];
                 }
-                r--;
+                r=r-1;
             }
         }
-        return total;
+       return total;
     }
 };
