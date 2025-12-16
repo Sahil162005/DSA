@@ -5,19 +5,20 @@ public:
         vector<int>arr(n,-1);
         stack<int>st;
         for(int i=2*n-1;i>=0;i--){
-           while(!st.empty() && st.top()<=nums[i%n]){
-            st.pop();
-           }
-           if(i<n){
-            if(st.empty()){
-                arr[i]=-1;
+            if(!st.empty() && st.top()>nums[i%n]){
+                arr[i%n]=st.top();
             }
             else{
-                arr[i]=st.top();
+                while(!st.empty() && st.top()<=nums[i%n]){
+                    st.pop();
+                }
+                if(!st.empty()){
+                    arr[i%n]=st.top();
+                }
             }
-           }
-           st.push(nums[i%n]);
+            st.push(nums[i%n]);
         }
         return arr;
+       
     }
 };
