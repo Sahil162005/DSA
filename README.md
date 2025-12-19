@@ -161,6 +161,7 @@
 | [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sahil162005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Sahil162005/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -253,6 +254,7 @@
 | [0115-distinct-subsequences](https://github.com/Sahil162005/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Sahil162005/DSA/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/Sahil162005/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sahil162005/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sahil162005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
@@ -356,6 +358,7 @@
 | [0155-min-stack](https://github.com/Sahil162005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Sahil162005/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sahil162005/DSA/tree/master/0735-asteroid-collision) |
@@ -377,6 +380,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Sahil162005/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0907-sum-of-subarray-minimums) |
