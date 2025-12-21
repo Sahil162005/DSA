@@ -31,19 +31,43 @@ public:
         }
         
     }
-    int largestRectangleArea(vector<int>& arr) {
-        int n=arr.size();
-        vector<int>nse(n);
-        vector<int>pse(n);
-        findnse(arr,nse,n);
-        findpse(arr,pse,n);
-        int maxi=0;
-        for(int i=0;i<n;i++){
-            int area=arr[i]*(nse[i]-pse[i]-1);
-            maxi=max(area,maxi);
-        }
-        return maxi;
+    // int largestRectangleArea(vector<int>& arr) {
+    //     int n=arr.size();
+    //     vector<int>nse(n);
+    //     vector<int>pse(n);
+    //     findnse(arr,nse,n);
+    //     findpse(arr,pse,n);
+    //     int maxi=0;
+    //     for(int i=0;i<n;i++){
+    //         int area=arr[i]*(nse[i]-pse[i]-1);
+    //         maxi=max(area,maxi);
+    //     }
+    //     return maxi;
 
         
+    // }
+    int largestRectangleArea(vector<int>& arr) {
+        int n=arr.size();
+        stack<int>st;
+        int maxarea=0;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && arr[i]<arr[st.top()]){
+               int element=arr[st.top()];
+                st.pop();
+                int nse=i;
+                int pse=st.empty()?-1:st.top();
+                maxarea=max(maxarea,element*(nse-pse-1));
+            }
+            st.push(i);
+        }
+        while(!st.empty()){
+            int element=arr[st.top()];
+                st.pop();
+                int nse=n;
+                int pse=st.empty()?-1:st.top();
+                maxarea=max(maxarea,element*(nse-pse-1));
+
+        }
+        return maxarea;
     }
 };
