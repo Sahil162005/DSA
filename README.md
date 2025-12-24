@@ -243,6 +243,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
@@ -353,6 +354,7 @@
 | [0002-add-two-numbers](https://github.com/Sahil162005/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil162005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sahil162005/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sahil162005/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sahil162005/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -377,6 +379,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sahil162005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -412,4 +415,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sahil162005/DSA/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
