@@ -109,6 +109,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sahil162005/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
@@ -302,6 +303,7 @@
 | [0162-find-peak-element](https://github.com/Sahil162005/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahil162005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sahil162005/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahil162005/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -410,6 +413,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil162005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
