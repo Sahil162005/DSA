@@ -1,35 +1,54 @@
 class Solution {
 public:
+    // int longestOnes(vector<int>& nums, int k) {
+    //     int n=nums.size();
+    //     int maxlen=0;
+    //     if(k==0){
+    //         int cnt=0;
+    //         for(int i=0;i<n;i++){
+    //             if(nums[i]==1) cnt++;
+    //             else{
+    //                 cnt=0;
+    //             }
+    //             maxlen=max(cnt,maxlen);
+    //         }
+    //     }
+    //     else{
+    //         queue<int>q;
+    //     int r=0,l=0;
+    //     while(r<n){
+    //         if(nums[r]==0 && q.size()<k){
+    //             q.push(r);
+                
+    //         }
+    //         else if(nums[r]==0 && q.size()==k){
+    //                 l=q.front()+1;
+    //                 q.pop();
+    //                 q.push(r);
+    //         }
+    //         int len=r-l+1;
+    //         maxlen=max(maxlen,len);
+    //         r++;
+    //     }
+    //     }
+    //     return maxlen;
+    // }
     int longestOnes(vector<int>& nums, int k) {
         int n=nums.size();
+        int zeros=0;
+        int l=0,r=0;
         int maxlen=0;
-        if(k==0){
-            int cnt=0;
-            for(int i=0;i<n;i++){
-                if(nums[i]==1) cnt++;
-                else{
-                    cnt=0;
-                }
-                maxlen=max(cnt,maxlen);
-            }
-        }
-        else{
-            queue<int>q;
-        int r=0,l=0;
         while(r<n){
-            if(nums[r]==0 && q.size()<k){
-                q.push(r);
-                
+            if(nums[r]==0) zeros++;
+            if(zeros>k){
+                if(nums[l]==0)zeros--;
+                l++;
             }
-            else if(nums[r]==0 && q.size()==k){
-                    l=q.front()+1;
-                    q.pop();
-                    q.push(r);
+            if(zeros<=k){
+                int len=r-l+1;
+                maxlen=max(maxlen,len);
             }
-            int len=r-l+1;
-            maxlen=max(maxlen,len);
             r++;
-        }
         }
         return maxlen;
     }
