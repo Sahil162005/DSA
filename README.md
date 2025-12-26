@@ -106,6 +106,7 @@
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sahil162005/DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/Sahil162005/DSA/tree/master/0854-making-a-large-island) |
+| [0904-fruit-into-baskets](https://github.com/Sahil162005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -251,6 +252,7 @@
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/Sahil162005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sahil162005/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 ## String
@@ -413,6 +415,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil162005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Sahil162005/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
