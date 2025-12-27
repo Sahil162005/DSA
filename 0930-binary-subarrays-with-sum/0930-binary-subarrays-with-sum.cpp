@@ -1,6 +1,7 @@
 class Solution {
 public:
 int atMost(vector<int>& nums, int goal) {
+    if(goal<0)return 0;
         if (goal < 0) return 0;
         int l = 0, sum = 0, cnt = 0;
         for (int r = 0; r < nums.size(); r++) {
