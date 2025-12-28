@@ -120,6 +120,7 @@
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil162005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahil162005/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -347,6 +348,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil162005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil162005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
@@ -432,6 +434,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil162005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil162005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
