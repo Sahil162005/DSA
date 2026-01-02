@@ -249,6 +249,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil162005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Sahil162005/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
@@ -272,6 +273,7 @@
 | [0020-valid-parentheses](https://github.com/Sahil162005/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sahil162005/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Sahil162005/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sahil162005/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Sahil162005/DSA/tree/master/0282-expression-add-operators) |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil162005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sahil162005/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahil162005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Sahil162005/DSA/tree/master/0904-fruit-into-baskets) |
