@@ -2,15 +2,15 @@ class Solution {
 public:
     int partitionString(string s) {
         int l=0,r=0;
-        unordered_map<int,int>mpp;
+        int arr[26]={0};
         int n=s.size();
         int cnt=0;
         while(r<n){
-            mpp[s[r]]++;
-            if(mpp[s[r]]>1){
+            arr[s[r]-'a']++;
+            if(arr[s[r]-'a']>1){
                 cnt++;
-                mpp.clear();
-                mpp[s[r]] = 1;
+                fill(begin(arr), end(arr), 0);
+                arr[s[r]-'a'] = 1;
             }
             r++;
         }
