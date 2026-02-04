@@ -85,6 +85,7 @@
 | [0162-find-peak-element](https://github.com/Sahil162005/DSA/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sahil162005/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sahil162005/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sahil162005/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
@@ -147,6 +148,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Sahil162005/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Sahil162005/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sahil162005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sahil162005/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sahil162005/DSA/tree/master/0547-number-of-provinces) |
@@ -208,6 +211,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sahil162005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sahil162005/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Sahil162005/DSA/tree/master/0322-coin-change) |
@@ -482,4 +486,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sahil162005/DSA/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Sahil162005/DSA/tree/master/0732-my-calendar-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
