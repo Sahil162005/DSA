@@ -116,6 +116,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sahil162005/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -154,6 +155,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Sahil162005/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Sahil162005/DSA/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Sahil162005/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -224,6 +226,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil162005/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sahil162005/DSA/tree/master/0854-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
