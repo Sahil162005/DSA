@@ -493,4 +493,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Sahil162005/DSA/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
