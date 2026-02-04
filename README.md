@@ -124,6 +124,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil162005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1476-subrectangle-queries](https://github.com/Sahil162005/DSA/tree/master/1476-subrectangle-queries) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1598-crawler-log-folder](https://github.com/Sahil162005/DSA/tree/master/1598-crawler-log-folder) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahil162005/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -154,6 +155,7 @@
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1476-subrectangle-queries](https://github.com/Sahil162005/DSA/tree/master/1476-subrectangle-queries) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
@@ -424,6 +426,7 @@
 | [0729-my-calendar-i](https://github.com/Sahil162005/DSA/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Sahil162005/DSA/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/Sahil162005/DSA/tree/master/0901-online-stock-span) |
+| [1476-subrectangle-queries](https://github.com/Sahil162005/DSA/tree/master/1476-subrectangle-queries) |
 ## Queue
 |  |
 | ------- |
