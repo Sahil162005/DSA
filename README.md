@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sahil162005/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sahil162005/DSA/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sahil162005/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sahil162005/DSA/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
@@ -507,12 +509,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sahil162005/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sahil162005/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sahil162005/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sahil162005/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
