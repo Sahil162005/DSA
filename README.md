@@ -104,6 +104,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Sahil162005/DSA/tree/master/0729-my-calendar-i) |
@@ -283,6 +284,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sahil162005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/Sahil162005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil162005/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -325,6 +327,7 @@
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 ## Backtracking
@@ -526,4 +529,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahil162005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
