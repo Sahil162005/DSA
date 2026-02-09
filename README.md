@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sahil162005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sahil162005/DSA/tree/master/0210-course-schedule-ii) |
@@ -411,6 +412,7 @@
 | [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil162005/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sahil162005/DSA/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Sahil162005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -497,4 +499,12 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Sahil162005/DSA/tree/master/1791-find-center-of-star-graph) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
