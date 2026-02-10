@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Sahil162005/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sahil162005/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sahil162005/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sahil162005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0282-expression-add-operators](https://github.com/Sahil162005/DSA/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -81,6 +82,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sahil162005/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil162005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sahil162005/DSA/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sahil162005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sahil162005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sahil162005/DSA/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sahil162005/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -434,6 +436,7 @@
 | [0085-maximal-rectangle](https://github.com/Sahil162005/DSA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahil162005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sahil162005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sahil162005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
