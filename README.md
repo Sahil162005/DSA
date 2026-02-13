@@ -107,6 +107,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/Sahil162005/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
@@ -443,6 +444,7 @@
 | [0402-remove-k-digits](https://github.com/Sahil162005/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahil162005/DSA/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/Sahil162005/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Sahil162005/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Sahil162005/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0907-sum-of-subarray-minimums) |
