@@ -1,74 +1,60 @@
 class Solution {
 public:
-    void findnse(vector<int>&arr,vector<int>&nse,int n){
+    void nsefunc(vector<int>&nse,vector<int>& heights){
         stack<int>st;
+        int n=heights.size();
         for(int i=n-1;i>=0;i--){
-            while(!st.empty() && arr[st.top()]>=arr[i]){
-                st.pop();
-            }
-            if(!st.empty()){
+            if(!st.empty() && heights[st.top()]<heights[i]){
                 nse[i]=st.top();
             }
             else{
-                nse[i]=n;
+                while(!st.empty() && heights[st.top()]>=heights[i]){
+                    st.pop();
+                }
+                if(st.empty()){
+                    nse[i]=n;
+                }
+                else{
+                    nse[i]=st.top();
+                }
             }
             st.push(i);
         }
     }
-    void findpse(vector<int>&arr,vector<int>&pse,int n){
-         stack<int>st;
+    void psefunc(vector<int>&pse,vector<int>& heights){
+        int n=heights.size();
+        stack<int>st;
         for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()]>arr[i]){
-                st.pop();
-            }
-            if(!st.empty()){
+            if(!st.empty() && heights[st.top()]<heights[i]){
                 pse[i]=st.top();
             }
             else{
-                pse[i]=-1;
+                while(!st.empty() && heights[st.top()]>=heights[i]){
+                    st.pop();
+                }
+                if(st.empty()){
+                    pse[i]=-1;
+                }
+                else{
+                    pse[i]=st.top();
+                }
             }
             st.push(i);
         }
-        
+
     }
-    // int largestRectangleArea(vector<int>& arr) {
-    //     int n=arr.size();
-    //     vector<int>nse(n);
-    //     vector<int>pse(n);
-    //     findnse(arr,nse,n);
-    //     findpse(arr,pse,n);
-    //     int maxi=0;
-    //     for(int i=0;i<n;i++){
-    //         int area=arr[i]*(nse[i]-pse[i]-1);
-    //         maxi=max(area,maxi);
-    //     }
-    //     return maxi;
-
-        
-    // }
-    int largestRectangleArea(vector<int>& arr) {
-        int n=arr.size();
-        stack<int>st;
-        int maxarea=0;
+    int largestRectangleArea(vector<int>& heights) {
+        int n=heights.size();
+        vector<int>nse(n,0);
+        vector<int>pse(n,0);
+        nsefunc(nse,heights);
+        psefunc(pse,heights);
+        long long ans=0;
         for(int i=0;i<n;i++){
-            while(!st.empty() && arr[i]<arr[st.top()]){
-               int element=arr[st.top()];
-                st.pop();
-                int nse=i;
-                int pse=st.empty()?-1:st.top();
-                maxarea=max(maxarea,element*(nse-pse-1));
-            }
-            st.push(i);
+            long long sum=heights[i]*(nse[i]-pse[i]-1);
+            ans=max(ans,sum);
         }
-        while(!st.empty()){
-            int element=arr[st.top()];
-                st.pop();
-                int nse=n;
-                int pse=st.empty()?-1:st.top();
-                maxarea=max(maxarea,element*(nse-pse-1));
+        return ans;
 
-        }
-        return maxarea;
     }
 };
-auto init = atexit([] { ofstream("display_runtime.txt") << '0'; });
