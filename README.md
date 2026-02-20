@@ -142,6 +142,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sahil162005/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -389,6 +390,7 @@
 | [0735-asteroid-collision](https://github.com/Sahil162005/DSA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sahil162005/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -471,6 +473,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sahil162005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahil162005/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
