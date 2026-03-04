@@ -216,6 +216,7 @@
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sahil162005/DSA/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil162005/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -241,6 +242,7 @@
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sahil162005/DSA/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil162005/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -528,9 +530,11 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Sahil162005/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Tree
 |  |
