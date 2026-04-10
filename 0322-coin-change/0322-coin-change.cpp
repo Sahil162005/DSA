@@ -1,27 +1,33 @@
 class Solution {
 public:
-   int fn(vector<int>& coins, int amount,vector<vector<int>>&dp,int index){
-    if(amount==0){
-        return 0;
-    }
-    if(index==0){
-        if(amount%coins[0]==0){
-            return amount/coins[0];
+    int fn(int amount, vector<int>& coins,vector<vector<int>>&dp,int i){
+        if(amount==0){
+            return 0;
         }
-        return 1e8;
+        if(i==0){
+            if(amount%coins[i]==0){
+                return amount/coins[i];
+            }
+            return 1e9;
+        }
+        if(dp[i][amount]!=-1){
+            return dp[i][amount];
+        }
+        int use = 1e9;
+        if(amount>=coins[i]){
+            use= 1+fn(amount-coins[i],coins,dp,i);
+        }
+        int notuse = fn(amount,coins,dp,i-1);
+        int ans= min(notuse,use);
+        return dp[i][amount]=ans;
     }
-    if(dp[index][amount]!=-1)return dp[index][amount];
-    int nottake=fn(coins,amount,dp,index-1);
-    int take=1e8;
-    if(coins[index]<=amount){
-        take=1+fn(coins,amount-coins[index],dp,index);
-    }
-    return dp[index][amount]=min(take,nottake);
-   }
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,-1));
-        int res= fn(coins,amount,dp,coins.size()-1);
-        if(res>=1e8)return -1;
-        return res;  
+         int n=coins.size();
+         vector<vector<int>>dp(n+1,vector<int>(amount+1,-1));
+         int ans= fn(amount,coins,dp,n-1);
+         if(ans>=1e8){
+            return -1;
+         }
+         return ans;
     }
 };
