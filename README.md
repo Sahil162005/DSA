@@ -53,6 +53,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahil162005/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahil162005/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil162005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -140,6 +141,7 @@
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1598-crawler-log-folder](https://github.com/Sahil162005/DSA/tree/master/1598-crawler-log-folder) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahil162005/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
@@ -347,6 +349,7 @@
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil162005/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 ## Backtracking
 |  |
 | ------- |
