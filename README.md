@@ -153,6 +153,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sahil162005/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -187,6 +188,7 @@
 | [1476-subrectangle-queries](https://github.com/Sahil162005/DSA/tree/master/1476-subrectangle-queries) |
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sahil162005/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil162005/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sahil162005/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -559,6 +563,7 @@
 | [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Sahil162005/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
+| [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
 | ------- |
