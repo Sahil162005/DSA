@@ -13,6 +13,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sahil162005/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -247,6 +249,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sahil162005/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sahil162005/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Union Find
 |  |
 | ------- |
@@ -570,6 +574,7 @@
 | [0684-redundant-connection](https://github.com/Sahil162005/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Sahil162005/DSA/tree/master/1791-find-center-of-star-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Tree
 |  |
 | ------- |
@@ -604,4 +609,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sahil162005/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Sahil162005/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sahil162005/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
