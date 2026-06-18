@@ -1,30 +1,38 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        set<string>stt;
+        bool present = false;
         for(int i=0;i<wordList.size();i++){
-            stt.insert(wordList[i]);
+            if(wordList[i]==endWord){
+                present = true;
+                break;
+            }
         }
-        queue<pair<string,int>>q;
-        q.push({beginWord,1});
-        while(!q.empty()){
-            string u=q.front().first;
-            int lvl=q.front().second;
-            if(u==endWord){
-                return lvl;
-            }
-            q.pop();
-           for (int i = 0; i < u.size(); ++i) {
-                char original = u[i];
-                for (char c = 'a'; c <= 'z'; ++c) {
-                    u[i] = c;
-                    if (stt.find(u) != stt.end()) {
-                        q.push({u, lvl + 1});
-                        stt.erase(u);
-                    }
+        if(present){
+            set<string> st(wordList.begin(), wordList.end());
+            queue<pair<string,int>>q;
+            q.push({beginWord,1});
+
+            while(!q.empty()){
+                string curr= q.front().first;
+                int lvl = q.front().second;
+                q.pop();
+                if(curr == endWord){
+                    return lvl;
                 }
-                u[i] = original;
+                for(int i=0;i<curr.size();i++){
+                    char letter = curr[i];
+                    for(int j=0;j<26;j++){
+                        curr[i]='a'+j;
+                       if (st.find(curr) != st.end()){
+                            st.erase(curr);
+                            q.push({curr,lvl+1});
+                        }
+                    }
+                    curr[i]=letter;
+                }
             }
+            return 0;
         }
         return 0;
     }
