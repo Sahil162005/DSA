@@ -337,6 +337,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sahil162005/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahil162005/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil162005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil162005/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -360,6 +361,7 @@
 | [1080-camelcase-matching](https://github.com/Sahil162005/DSA/tree/master/1080-camelcase-matching) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Sahil162005/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahil162005/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/Sahil162005/DSA/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil162005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahil162005/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -449,6 +451,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahil162005/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Recursion
 |  |
 | ------- |
