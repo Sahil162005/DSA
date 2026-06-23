@@ -60,6 +60,7 @@
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil162005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Sahil162005/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -446,6 +447,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil162005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Sahil162005/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting
 |  |
 | ------- |
