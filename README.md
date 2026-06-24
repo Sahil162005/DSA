@@ -14,6 +14,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sahil162005/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil162005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sahil162005/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sahil162005/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
