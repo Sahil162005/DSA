@@ -137,6 +137,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Sahil162005/DSA/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sahil162005/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -223,6 +224,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Sahil162005/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sahil162005/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2405-optimal-partition-of-string](https://github.com/Sahil162005/DSA/tree/master/2405-optimal-partition-of-string) |
@@ -381,6 +383,7 @@
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
+| [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil162005/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
