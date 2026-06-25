@@ -166,6 +166,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sahil162005/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sahil162005/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahil162005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -213,6 +214,7 @@
 | [1080-camelcase-matching](https://github.com/Sahil162005/DSA/tree/master/1080-camelcase-matching) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2405-optimal-partition-of-string](https://github.com/Sahil162005/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Depth-First Search
 |  |
@@ -392,6 +395,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil162005/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
 | ------- |
@@ -429,6 +433,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sahil162005/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/Sahil162005/DSA/tree/master/1046-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
@@ -456,6 +461,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil162005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil162005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sahil162005/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahil162005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
