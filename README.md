@@ -163,6 +163,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil162005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -238,6 +239,7 @@
 | [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil162005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2405-optimal-partition-of-string](https://github.com/Sahil162005/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -403,6 +405,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil162005/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil162005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
