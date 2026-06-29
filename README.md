@@ -166,6 +166,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil162005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/Sahil162005/DSA/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sahil162005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sahil162005/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sahil162005/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -388,6 +389,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil162005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sahil162005/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1598-crawler-log-folder](https://github.com/Sahil162005/DSA/tree/master/1598-crawler-log-folder) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sahil162005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2405-optimal-partition-of-string](https://github.com/Sahil162005/DSA/tree/master/2405-optimal-partition-of-string) |
 ## Sorting
 |  |
