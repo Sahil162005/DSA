@@ -122,6 +122,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Sahil162005/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -234,6 +235,7 @@
 | [0135-candy](https://github.com/Sahil162005/DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Sahil162005/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Sahil162005/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -351,6 +353,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahil162005/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil162005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
@@ -403,6 +406,7 @@
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
@@ -445,6 +449,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Sahil162005/DSA/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -487,6 +492,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahil162005/DSA/tree/master/1189-maximum-number-of-balloons) |
