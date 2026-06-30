@@ -145,6 +145,7 @@
 | [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/Sahil162005/DSA/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Sahil162005/DSA/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/Sahil162005/DSA/tree/master/1054-distant-barcodes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sahil162005/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Sahil162005/DSA/tree/master/1073-number-of-enclaves) |
 | [1080-camelcase-matching](https://github.com/Sahil162005/DSA/tree/master/1080-camelcase-matching) |
@@ -241,6 +242,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Sahil162005/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sahil162005/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
+| [1054-distant-barcodes](https://github.com/Sahil162005/DSA/tree/master/1054-distant-barcodes) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahil162005/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil162005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -361,6 +363,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil162005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sahil162005/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1054-distant-barcodes](https://github.com/Sahil162005/DSA/tree/master/1054-distant-barcodes) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahil162005/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil162005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -411,6 +414,7 @@
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
 | [1029-two-city-scheduling](https://github.com/Sahil162005/DSA/tree/master/1029-two-city-scheduling) |
+| [1054-distant-barcodes](https://github.com/Sahil162005/DSA/tree/master/1054-distant-barcodes) |
 | [1129-longest-string-chain](https://github.com/Sahil162005/DSA/tree/master/1129-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil162005/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sahil162005/DSA/tree/master/1626-best-team-with-no-conflicts) |
@@ -455,6 +459,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sahil162005/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/Sahil162005/DSA/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/Sahil162005/DSA/tree/master/1054-distant-barcodes) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -495,6 +500,7 @@
 | [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil162005/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1054-distant-barcodes](https://github.com/Sahil162005/DSA/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahil162005/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahil162005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
