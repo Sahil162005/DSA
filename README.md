@@ -175,6 +175,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil162005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil162005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sahil162005/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahil162005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -208,6 +209,7 @@
 | [1559-cherry-pickup-ii](https://github.com/Sahil162005/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -312,6 +314,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Sahil162005/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahil162005/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sahil162005/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sahil162005/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -463,6 +467,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sahil162005/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sahil162005/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahil162005/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -632,6 +637,7 @@
 | [0684-redundant-connection](https://github.com/Sahil162005/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Sahil162005/DSA/tree/master/0785-is-graph-bipartite) |
 | [1905-count-sub-islands](https://github.com/Sahil162005/DSA/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
