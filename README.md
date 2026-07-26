@@ -48,6 +48,7 @@
 | [0542-01-matrix](https://github.com/Sahil162005/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sahil162005/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sahil162005/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/Sahil162005/DSA/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil162005/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sahil162005/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahil162005/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -132,6 +133,7 @@
 | [0733-flood-fill](https://github.com/Sahil162005/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sahil162005/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sahil162005/DSA/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Sahil162005/DSA/tree/master/0740-delete-and-earn) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Sahil162005/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Sahil162005/DSA/tree/master/0854-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sahil162005/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -366,6 +368,7 @@
 | [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sahil162005/DSA/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Sahil162005/DSA/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Sahil162005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil162005/DSA/tree/master/0930-binary-subarrays-with-sum) |
