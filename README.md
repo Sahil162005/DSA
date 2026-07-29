@@ -28,6 +28,7 @@
 | [0070-climbing-stairs](https://github.com/Sahil162005/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sahil162005/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sahil162005/DSA/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Sahil162005/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sahil162005/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Sahil162005/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahil162005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -392,6 +393,7 @@
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sahil162005/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sahil162005/DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Sahil162005/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sahil162005/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sahil162005/DSA/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Sahil162005/DSA/tree/master/0282-expression-add-operators) |
