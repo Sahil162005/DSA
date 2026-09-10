@@ -735,4 +735,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil162005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sahil162005/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
