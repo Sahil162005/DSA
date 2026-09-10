@@ -9,6 +9,7 @@
 | [0062-unique-paths](https://github.com/Sahil162005/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sahil162005/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil162005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Sahil162005/DSA/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil162005/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -109,6 +110,7 @@
 | [0213-house-robber-ii](https://github.com/Sahil162005/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sahil162005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahil162005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sahil162005/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -365,6 +367,7 @@
 | [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahil162005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahil162005/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sahil162005/DSA/tree/master/0496-next-greater-element-i) |
@@ -425,6 +428,7 @@
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sahil162005/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Sahil162005/DSA/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sahil162005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Sahil162005/DSA/tree/master/0455-assign-cookies) |
@@ -460,6 +464,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sahil162005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sahil162005/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sahil162005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sahil162005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -695,6 +700,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Sahil162005/DSA/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
