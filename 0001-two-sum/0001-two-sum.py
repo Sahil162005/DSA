@@ -1,10 +1,13 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         arr = []
+        mpp = {}
         for i in range (len(nums)):
-            for j in range (i+1,len(nums)):
-                if (nums[i] + nums[j] == target):
-                    arr.append(i)
-                    arr.append(j)
-                    break
+            num = nums[i]
+            req = target - num
+            if req in mpp :
+                arr.append(mpp[req])
+                arr.append(i)
+                break
+            mpp[num] = i
         return arr
