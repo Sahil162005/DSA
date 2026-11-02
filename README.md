@@ -75,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahil162005/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sahil162005/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sahil162005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
@@ -361,6 +362,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahil162005/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil162005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sahil162005/DSA/tree/master/0076-minimum-window-substring) |
