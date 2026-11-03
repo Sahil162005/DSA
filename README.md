@@ -107,6 +107,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil162005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sahil162005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sahil162005/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sahil162005/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sahil162005/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sahil162005/DSA/tree/master/0200-number-of-islands) |
@@ -375,6 +376,7 @@
 | [0133-clone-graph](https://github.com/Sahil162005/DSA/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Sahil162005/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil162005/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
@@ -439,6 +441,7 @@
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sahil162005/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil162005/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
@@ -546,6 +549,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Sahil162005/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sahil162005/DSA/tree/master/0767-reorganize-string) |
@@ -738,6 +742,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahil162005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -753,4 +758,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahil162005/DSA/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
