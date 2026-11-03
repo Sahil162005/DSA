@@ -95,6 +95,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sahil162005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil162005/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sahil162005/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Sahil162005/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahil162005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sahil162005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -236,6 +237,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sahil162005/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sahil162005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahil162005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Sahil162005/DSA/tree/master/0283-move-zeroes) |
@@ -436,6 +438,7 @@
 | [0015-3sum](https://github.com/Sahil162005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sahil162005/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sahil162005/DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sahil162005/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sahil162005/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
