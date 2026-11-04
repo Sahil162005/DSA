@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sahil162005/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Sahil162005/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Sahil162005/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sahil162005/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sahil162005/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
@@ -86,6 +87,7 @@
 | [0042-trapping-rain-water](https://github.com/Sahil162005/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sahil162005/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sahil162005/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Sahil162005/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sahil162005/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sahil162005/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sahil162005/DSA/tree/master/0056-merge-intervals) |
@@ -744,6 +746,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sahil162005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sahil162005/DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahil162005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahil162005/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
