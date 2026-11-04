@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Sahil162005/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sahil162005/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sahil162005/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sahil162005/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sahil162005/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil162005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Sahil162005/DSA/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@
 | [0057-insert-interval](https://github.com/Sahil162005/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Sahil162005/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sahil162005/DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sahil162005/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sahil162005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sahil162005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil162005/DSA/tree/master/0084-largest-rectangle-in-histogram) |
