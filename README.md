@@ -200,6 +200,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahil162005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahil162005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil162005/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahil162005/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahil162005/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sahil162005/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sahil162005/DSA/tree/master/3620-network-recovery-pathways) |
